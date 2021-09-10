@@ -1,2 +1,2 @@
-# Projects
-Projects from MSc Data Science @ City 
+# Airbnb Data Analysis 
+##Projects from MSc Data Science @ City - Module: Principles of Data Science
